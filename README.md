@@ -7,19 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
 ---
 
-## 🚀 About Me
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitcaf)](https://github.com/kitcaf/github-readme-stats)
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, Web Development**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love to code and explore new technologies!**
 ---
 
 <div align="center">
