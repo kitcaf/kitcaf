@@ -6,5 +6,3 @@
   Hi, I'm kitcaf (kittycafe)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-
-[![kitcaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitcaf)](https://github.com/kitcaf/github-readme-stats)
